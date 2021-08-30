@@ -21,5 +21,11 @@ public class CreateOrgTest {
 	public void createOrgTestWithRatingTest() {
 		System.out.println("execute createOrgTestWithRating Test");
  	}
+	
+	
+	@Test
+	public void searchOrgTest() {
+		System.out.println("execute searchOrgTest ");
+ 	}
 
 }
