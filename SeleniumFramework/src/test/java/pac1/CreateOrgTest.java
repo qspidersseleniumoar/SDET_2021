@@ -12,7 +12,7 @@ public class CreateOrgTest {
 	
 	@Test
 	public void createOrgTest1() {
-		System.out.println("execute createOrg Test1");
+		System.out.println("execute createOrg Test12");
  	}
 	
 	@Test
