@@ -8,8 +8,12 @@ public class CreateOrgTest {
 	@Test
 	public void createOrgTest() {
 		System.out.println("execute createOrg Test");
- 	}	
+ 	}
 	
+	@Test
+	public void createOrgTest1() {
+		System.out.println("execute createOrg Test");
+ 	}
 	
 	@Test
 	public void createOrgWithIndustriesTest() {
